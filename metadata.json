@@ -1,0 +1,11 @@
+{
+  "name": "Solar",
+  "developer": "Emily Lau",
+  "description": "A light theme for Pext.",
+  "homepage": "https://pext.hackerchick.me/",
+  "license": "CC-BY-3.0",
+  "git_urls": [
+    "https://github.com/Pext/pext_theme_solar",
+    "https://notabug.org/Pext/pext_theme_solar"
+  ]
+}
